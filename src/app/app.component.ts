@@ -11,6 +11,7 @@ export class AppComponent {
   title = "Angular-Pipes";
 
   nombre = "Alexander";
+  nombre2 = "AlexAnder hoYos muñoz";
   arreglo = [1, 2, 3, 4, 5, 6, 7, 8, 9];
   PI = Math.PI;
   a = 0.234;
@@ -28,5 +29,7 @@ export class AppComponent {
 
 
   fecha = '2019-01-23';
+
+  video = "x22PGIighO0";
 
 }
